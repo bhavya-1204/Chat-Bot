@@ -67,7 +67,7 @@ venv\Scripts\activate     # Windows
 ### 2️⃣ Install dependencies
 
 ```bash
-pip install streamlit langchain langgraph groq
+pip install -r requirements.txt
 ```
 
 ---
